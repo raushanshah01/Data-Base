@@ -1,0 +1,2 @@
+ reg_no  name    phone_no  Math  Physics  Chemistry  Hindi  English  cgpa
+   5555 rahul 98745611230    36       36         23     53       62   4.2
